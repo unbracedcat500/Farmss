@@ -1,1 +1,2 @@
-This is a test file for github
+This is a test file for github.
+I am using git for the first time
